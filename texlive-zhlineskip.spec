@@ -1,6 +1,6 @@
 Name:		texlive-zhlineskip
 Version:	51142
-Release:	1
+Release:	2
 Summary:	Line spacing for CJK documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhlineskip
