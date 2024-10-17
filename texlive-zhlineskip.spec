@@ -3,7 +3,7 @@ Version:	51142
 Release:	2
 Summary:	Line spacing for CJK documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhlineskip
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zhlineskip
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zhlineskip.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zhlineskip.doc.r%{version}.tar.xz
